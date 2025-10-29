@@ -1,6 +1,7 @@
 <center>
-🍽️ Sistema de Gestão para Restaurante
+## 🍽️ Sistema de Gestão para Restaurante
 </center>
+
 
 Este projeto foi desenvolvido como parte de um curso de aplicação de banco de dados da FAT, com o objetivo de modernizar um sistema de gestão de um restaurante fictício.
 
